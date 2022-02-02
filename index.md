@@ -1,4 +1,4 @@
-## 1<sup>st</sup> Workshop on Novel Evaluation Approaches for Text Classification Systems (NEATCLasS)
+## Overview
 
 If unreliable systems achieve astonishing scores with traditional metrics, how do we recognise progress when we see it? The goal of the workshop on Novel Evaluation Approaches for Text Classification Systems (NEATCLasS) is to promote the development and use of novel metrics for abuse detection, sentiment analysis and similar tasks within the community, to better be able to measure whether models really improve upon the state of the art, and to encourage a wide range of models to be tested on these new metrics.
 
