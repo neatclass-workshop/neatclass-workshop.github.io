@@ -1,8 +1,6 @@
 ## 1<sup>st</sup> Workshop on Novel Evaluation Approaches for Text Classification Systems (NEATCLasS)
 
-You can use the [editor on GitHub](https://github.com/neatclass-workshop/neatclass-workshop.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If unreliable systems achieve astonishing scores with traditional metrics, how do we recognise progress when we see it? The goal of the workshop on Novel Evaluation Approaches for Text Classification Systems (NEATCLasS) is to promote the development and use of novel metrics for abuse detection, sentiment analysis and similar tasks within the community, to better be able to measure whether models really improve upon the state of the art, and to encourage a wide range of models to be tested on these new metrics.
 
 ### Markdown
 
