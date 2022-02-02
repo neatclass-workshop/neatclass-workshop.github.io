@@ -21,3 +21,17 @@ For the first edition of the workshop on Novel Evaluation Approaches for Text Cl
 * Approaches to mitigating bias and common errors  
 * Alternative designs for NLP competitions that evaluate a wide range of model characteristics (such as bias, error analysis, cross-domain performance)  
 * Challenges of downstream applications (in industry, computational social science, computational communication science, and others) and reflections on how these challenges can be captured in evaluation metrics.
+
+## Contributions
+
+Instructions TBD.
+
+## Submission Information
+
+* Submission link: TBD
+* Papers submission deadline: March 27, 2022 
+* Paper acceptance notification: April 10, 2022 
+* Final camera-ready paper due: April 17, 2022 
+* Workshop Day: June 6, 2022
+
+All deadlines are 11:59pm AOE (anywhere on earth).
