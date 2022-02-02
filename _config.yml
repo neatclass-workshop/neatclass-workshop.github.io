@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: NEATCLasS Workshop's Homepage
 description: @ ICWSM 2022
+
+include:
+  - _pages
