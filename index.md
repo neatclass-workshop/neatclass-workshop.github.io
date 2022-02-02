@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 1<sup>st</sup> Workshop on Novel Evaluation Approaches for Text Classification Systems (NEATCLasS)
 
 You can use the [editor on GitHub](https://github.com/neatclass-workshop/neatclass-workshop.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
