@@ -4,7 +4,7 @@ title: Call for Papers
 permalink: /call-for-papers/
 ---
 
-## <span style="color:#267CB9"> Call for Papers </span>
+# Call for Papers
 
 Recently there have been attempts to address the problem of benchmarks and metrics that do not represent performance well. For example, in abusive language detection, there are both static datasets of hard-to-detect examples (Röttger et al. 2021) and dynamic approaches for generating such examples (Calabrese et al. 2021). On the platform DynaBench (Kiela et al. 2021), benchmarks are dynamic and constantly updated with hard-to-classify examples, avoiding overfitting a predetermined dataset. However, these approaches only capture a tiny fraction of issues with benchmarking. There is still much work to do.
 
