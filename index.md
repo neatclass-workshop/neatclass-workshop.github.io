@@ -15,4 +15,4 @@ If unreliable systems achieve astonishing scores with traditional metrics, how d
 
 List organisers here.
 
-![](images/bjorn.png)
+![Björn Ross](images/bjorn.png) ![Roberto Navigli](images/roberto.jpeg)
