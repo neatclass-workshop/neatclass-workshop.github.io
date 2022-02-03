@@ -13,19 +13,10 @@ If unreliable systems achieve astonishing scores with traditional metrics, how d
 
 ## Organisers
 
-<a href="https://sweb.inf.ed.ac.uk/bross3/" > <img src="images/bjorn.png" width="200" > </a> | <a href="https://www.diag.uniroma1.it/navigli/" > <img src="images/roberto.jpeg" width="200" > </a> | <a href="https://ago3.github.io" > <img src="images/agostina.jpeg" width="200" > </a> 
-:---: | :---: | :---:
-[Björn Ross](https://sweb.inf.ed.ac.uk/bross3/) | [Roberto Navigli](https://www.diag.uniroma1.it/navigli/) | [Agostina Calabrese](https://ago3.github.io)
-:---: | :---: | :---:
-he/him | he/him | she/her
-:---: | :---: | :---:
-The University of Edinburgh | Sapienza University of Rome | The University of Edinburgh
-:---: | :---: | :---:
-
 <div class="row" style="display:flex">
   <div class="column" style="padding:5px;flex:33%">
     <a href="https://sweb.inf.ed.ac.uk/bross3/" > 
-    	<img src="images/bjorn.png" alt="Björn Ross" style="width:100%">
+    	<img src="images/bjorn.png" alt="Björn Ross" style="width:90%">
     </a>
     <p align="center"> <a href="https://sweb.inf.ed.ac.uk/bross3/">Björn Ross</a> </p>
     <p align="center"> he/him </p>
@@ -33,7 +24,7 @@ The University of Edinburgh | Sapienza University of Rome | The University of Ed
   </div>
   <div class="column" style="padding:5px;flex:33%">
   	<a href="https://www.diag.uniroma1.it/navigli/" >
-  		<img src="images/roberto.jpeg" alt="Roberto Navigli" style="width:100%">
+  		<img src="images/roberto.jpeg" alt="Roberto Navigli" style="width:90%">
   	</a>
   	<p align="center"> <a href="https://www.diag.uniroma1.it/navigli/">Roberto Navigli</a> </p>
   	<p align="center"> he/him </p>
@@ -41,7 +32,7 @@ The University of Edinburgh | Sapienza University of Rome | The University of Ed
   </div>
   <div class="column" style="padding:5px;flex:33%">
   	<a href="https://ago3.github.io" >
-    	<img src="images/agostina.jpeg" alt="Agostina Calabrese" style="width:100%">
+    	<img src="images/agostina.jpeg" alt="Agostina Calabrese" style="width:90%">
     </a>
     <p align="center"> <a href="https://ago3.github.io">Agostina Calabrese</a></p>
     <p align="center"> she/her </p>
