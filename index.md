@@ -21,3 +21,15 @@ he/him | he/him | she/her
 :---: | :---: | :---:
 The University of Edinburgh | Sapienza University of Rome | The University of Edinburgh
 :---: | :---: | :---:
+
+<div class="row">
+  <div class="column">
+    <img src="images/bjorn.png" alt="Björn Ross" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/roberto.jpeg" alt="Roberto Navigli" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/agostina.jpeg" alt="Agostina Calabrese" style="width:100%">
+  </div>
+</div>
