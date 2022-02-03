@@ -13,7 +13,7 @@ If unreliable systems achieve astonishing scores with traditional metrics, how d
 
 ## Organisers
 
-<img src="images/bjorn.png" width="200"> | <img src="images/roberto.jpeg" width="200"> | <img src="images/agostina.jpeg" width="200">
+<img src="images/bjorn.png" width="200" href="https://sweb.inf.ed.ac.uk/bross3/"> | <img src="images/roberto.jpeg" width="200" href="https://www.diag.uniroma1.it/navigli/"> | <img src="images/agostina.jpeg" width="200" href="https://ago3.github.io">
 :---: | :---: | :---:
 [Björn Ross](https://sweb.inf.ed.ac.uk/bross3/) | [Roberto Navigli](https://www.diag.uniroma1.it/navigli/) | [Agostina Calabrese](https://ago3.github.io)
 :---: | :---: | :---:
