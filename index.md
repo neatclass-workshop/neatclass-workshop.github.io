@@ -39,3 +39,6 @@ If unreliable systems achieve astonishing scores with traditional metrics, how d
     <p align="center"> The University of Edinburgh </p>
   </div>
 </div>
+
+<p align="center">This workshop was supported by the RSE Saltire Facilitation Network Award, Ref. No. 1901.</p>
+<img src="images/RSE_logo.png" alt="RSE" align="center" style="width:10%">
