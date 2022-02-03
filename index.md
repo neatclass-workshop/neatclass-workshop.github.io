@@ -23,13 +23,13 @@ The University of Edinburgh | Sapienza University of Rome | The University of Ed
 :---: | :---: | :---:
 
 <div class="row" style="display:table;clear:both">
-  <div class="column" style="padding:5px">
+  <div class="column" style="padding:5px;width:33%">
     <img src="images/bjorn.png" alt="Björn Ross" style="width:30%">
   </div>
-  <div class="column" style="padding:5px">
+  <div class="column" style="padding:5px;width:33%">
     <img src="images/roberto.jpeg" alt="Roberto Navigli" style="width:30%">
   </div>
-  <div class="column" style="padding:5px">
+  <div class="column" style="padding:5px;width:33%">
     <img src="images/agostina.jpeg" alt="Agostina Calabrese" style="width:30%">
   </div>
 </div>
