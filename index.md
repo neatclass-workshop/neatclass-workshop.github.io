@@ -13,6 +13,4 @@ If unreliable systems achieve astonishing scores with traditional metrics, how d
 
 ## Organisers
 
-List organisers here.
-
-|![Björn Ross](images/bjorn.png) | ![Roberto Navigli](images/roberto.jpeg) |
+<img src="images/bjorn.png" width="200"> | <img src="images/roberto.jpeg" width="200"> | <img src="images/agostina.jpeg" width="200">
