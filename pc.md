@@ -6,4 +6,25 @@ permalink: /programme-committee/
 
 # Programme Committee
 
-List PCs here.
+Programme Committee members:
+* Abeer Aldayel, King Saud University
+* André Calero Valdez, RWTH Aachen
+* Barbara Plank, IT University of Copenhagen
+* Bertie Vidgen, Alan Turing Institute
+* Carolina Scarton, University of Sheffield
+* Christos Christodoulopoulos, Amazon
+* David Jurgens, University of Michigan
+* Dennis Assenmacher, University of Münster
+* Douwe Kiela, Facebook
+* Georgi Karadzhov, University of Cambridge
+* Jeremy Barnes, University of the Basque Country
+* Marcos Zampieri, Rochester Institute of Technology
+* Nedjma Ousidhoum, University of Cambridge
+* Paolo Rosso, Universitat Politècnica de València
+* Sara Tonelli, Fondazione Bruno Kessler
+* Serena Villata, Centre National de la Recherche Scientifique
+* Steven Wilson, Oakland University
+* Suzan Verberne, University of Leiden
+* Walid Magdy, University of Edinburgh
+* Wouter van Atteveldt, Vrije Universiteit Amsterdam
+* Zeerak Talat, Simon Fraser University
