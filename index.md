@@ -9,7 +9,7 @@ The automatic or semiautomatic analysis of textual data is a key approach to ana
 
 ## Overview
 
-If unreliable systems achieve astonishing scores with traditional metrics, how do we recognise progress when we see it? The goal of the workshop on Novel Evaluation Approaches for Text Classification Systems (NEATCLasS) is to promote the development and use of novel metrics for abuse detection, sentiment analysis and similar tasks within the community, to better be able to measure whether models really improve upon the state of the art, and to encourage a wide range of models to be tested on these new metrics.
+If unreliable systems achieve astonishing scores with traditional metrics, how do we recognise progress when we see it? The goal of the workshop on Novel Evaluation Approaches for Text Classification Systems on Social Media (NEATCLasS) is to promote the development and use of novel metrics for abuse detection, sentiment analysis and similar tasks within the community, to better be able to measure whether models really improve upon the state of the art, and to encourage a wide range of models to be tested on these new metrics.
 
 ## Organisers
 
@@ -40,7 +40,7 @@ If unreliable systems achieve astonishing scores with traditional metrics, how d
   </div>
 </div>
 
-<p align="center"><small>This workshop was supported by the RSE Saltire Facilitation Network Award, Ref. No. 1901.</small></p>
+<p align="center"><small>This workshop is supported by the RSE Saltire Facilitation Network Award, Ref. No. 1901.</small></p>
 <div align="center">
-	<img src="images/RSE_logo.png" alt="RSE" style="width:10%">
+	<img src="images/RSE_logo.png" alt="RSE" style="width:20%">
 </div>
