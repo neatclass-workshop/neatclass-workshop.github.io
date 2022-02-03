@@ -40,5 +40,5 @@ If unreliable systems achieve astonishing scores with traditional metrics, how d
   </div>
 </div>
 
-<p align="center">This workshop was supported by the RSE Saltire Facilitation Network Award, Ref. No. 1901.</p>
-<img src="images/RSE_logo.png" alt="RSE" align="center" style="width:10%">
+<p align="center"><small>This workshop was supported by the RSE Saltire Facilitation Network Award, Ref. No. 1901.</small></p>
+<img src="images/RSE_logo.png" alt="RSE" align="middle" style="width:10%">
