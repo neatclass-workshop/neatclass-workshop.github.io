@@ -14,3 +14,5 @@ If unreliable systems achieve astonishing scores with traditional metrics, how d
 ## Organisers
 
 List organisers here.
+
+![](images/bjorn.png)
