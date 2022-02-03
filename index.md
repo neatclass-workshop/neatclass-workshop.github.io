@@ -27,11 +27,14 @@ The University of Edinburgh | Sapienza University of Rome | The University of Ed
     <a href="https://sweb.inf.ed.ac.uk/bross3/" > 
     	<img src="images/bjorn.png" alt="Björn Ross" style="width:100%">
     </a>
+    <p align="center"> Björn Ross </p>
+    <p align="center"> he/him </p>
   </div>
   <div class="column" style="padding:5px;flex:33%">
   	<a href="https://www.diag.uniroma1.it/navigli/" >
   		<img src="images/roberto.jpeg" alt="Roberto Navigli" style="width:100%">
   	</a>
+  	<p align="center"> Roberto Navigli </p>
   </div>
   <div class="column" style="padding:5px;flex:33%">
   	<a href="https://ago3.github.io" >
