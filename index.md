@@ -22,7 +22,7 @@ he/him | he/him | she/her
 The University of Edinburgh | Sapienza University of Rome | The University of Edinburgh
 :---: | :---: | :---:
 
-<div class="row" style="display:table;content:"";clear: both">
+<div class="row" style="display:table;clear:both">
   <div class="column" style="padding:5px">
     <img src="images/bjorn.png" alt="Björn Ross" style="width:30%">
   </div>
