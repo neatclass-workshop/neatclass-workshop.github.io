@@ -14,8 +14,8 @@ Programme Committee members:
 * Carolina Scarton, University of Sheffield
 * Christos Christodoulopoulos, Amazon
 * David Jurgens, University of Michigan
-* Dennis Assenmacher, University of Münster
-* Douwe Kiela, Facebook
+* Dennis Assenmacher, GESIS
+* Douwe Kiela, Hugging Face
 * Georgi Karadzhov, University of Cambridge
 * Jeremy Barnes, University of the Basque Country
 * Marcos Zampieri, Rochester Institute of Technology
