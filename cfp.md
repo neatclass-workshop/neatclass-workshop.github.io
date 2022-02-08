@@ -8,13 +8,13 @@ permalink: /call-for-papers/
 
 Recently there have been attempts to address the problem of benchmarks and metrics that do not represent performance well. For example, in abusive language detection, there are both static datasets of hard-to-detect examples (<a href="https://aclanthology.org/2021.acl-long.4.pdf">Röttger et al. 2021</a>) and dynamic approaches for generating such examples (<a href="https://www.diag.uniroma1.it/navigli/pubs/WebSci_2021_Calabresetal.pdf">Calabrese et al. 2021</a>). On the platform DynaBench (<a href="https://dynabench.org/paper.pdf">Kiela et al. 2021</a>), benchmarks are dynamic and constantly updated with hard-to-classify examples, avoiding overfitting a predetermined dataset. However, these approaches only capture a tiny fraction of issues with benchmarking. There is still much work to do.
 
-For the first edition of the workshop on Novel Evaluation Approaches for Text Classification Systems (NEATCLasS) we welcome submissions discussing such new evaluation approaches, introducing new or refining existing ones, promoting the use of novel metrics for abuse detection, sentiment analysis and similar tasks within the community. Furthermore, the workshop will promote discussion on the importance, potential and danger of disagreement in tasks that require subjective judgements. This discussion will also focus on how to evaluate human annotations, and how to find the most suitable set of annotators (if any) for a given instance and task. The workshop will solicit, among others, research papers about:
+For the first edition of the workshop on Novel Evaluation Approaches for Text Classification Systems (NEATCLasS) we welcome submissions discussing such new evaluation approaches, introducing new or refining existing ones, promoting the use of novel metrics for abuse detection, hate speech recognition, sentiment analysis and similar tasks within the community. Furthermore, the workshop will promote discussion on the importance, potential and danger of disagreement in tasks that require subjective judgements. This discussion will also focus on how to evaluate human annotations, and how to find the most suitable set of annotators (if any) for a given instance and task. The workshop will solicit, among others, research papers about:
 * Issues with current evaluation metrics and benchmarking datasets 
 * New evaluation metrics
 * User-centred (qualitative or quantitative) evaluation of social media text analysis tools 
 * Adaptations and translations of novel evaluation metrics for other languages  
-* New data sets for benchmarking  
-* Increasing data quality in benchmarking data sets, e.g., avoidance of selection bias, identification of suitable expert human annotators for tasks involving subjective judgements  
+* New datasets for benchmarking  
+* Increasing data quality in benchmarking datasets, e.g., avoidance of selection bias, identification of suitable expert human annotators for tasks involving subjective judgements  
 * Systems that facilitate dynamic evaluation and benchmarking  
 * Models that perform better at hard-to-classify instances and novel evaluation metrics such as AAA, DynaBench and HateCheck  
 * Bias, error analysis and model diagnostics  
@@ -25,7 +25,7 @@ For the first edition of the workshop on Novel Evaluation Approaches for Text Cl
 
 ## Format and Submissions
 
-The workshop will take place as a full-day meeting on 6 June. Participants will be invited to trial an innovative format for paper presentations: presenters will be given 5 minutes to describe their research questions and hypothesis, and a group discussion will start after that. Then, presenters will be given 5 more minutes to describe their method and results, followed by a new group discussion about the interpretation and implications of such results. In the afternoon there will be collaborative group activities to bring researchers together and collect ideas for new evaluation approaches and future work in the field. We will discuss how we can organise competitions when there are multiple evaluation metrics and benchmarking datasets are dynamic.
+The workshop will take place as a full-day meeting on 6 June. Participants will be invited to trial an innovative format for paper presentations: presenters will be given 5 minutes to describe their research questions and hypotheses, and a group discussion will start after that. Then, presenters will be given 5 more minutes to describe their method and results, followed by a new group discussion about the interpretation and implications of such results. In the afternoon there will be collaborative group activities to bring researchers together and collect ideas for new evaluation approaches and future work in the field. We will discuss how we can organise competitions when there are multiple evaluation metrics and benchmarking datasets are dynamic.
 
 Instructions TBD.
 
