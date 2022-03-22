@@ -38,3 +38,5 @@ We invite research papers (8 pages), position and short papers (4 pages), and de
 * Workshop Day: June 6, 2022
 
 All deadlines are 11:59pm AOE (anywhere on earth).
+
+It will be possible to register for the workshop only.
