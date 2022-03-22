@@ -32,9 +32,9 @@ We invite research papers (8 pages), position and short papers (4 pages), and de
 ## Submission Information
 
 * Submission link: <a href="https://easychair.org/conferences/?conf=neatclass2022">https://easychair.org/conferences/?conf=neatclass2022</a>
-* Papers submission deadline: March 27, 2022 
-* Paper acceptance notification: April 10, 2022 
-* Final camera-ready paper due: April 17, 2022 
+* Papers submission deadline: April 10, 2022 
+* Paper acceptance notification: April 29, 2022 
+* Final camera-ready paper due: May 6, 2022 
 * Workshop Day: June 6, 2022
 
 All deadlines are 11:59pm AOE (anywhere on earth).
