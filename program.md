@@ -31,7 +31,7 @@ All times shown below are in EDT.
 * 17:00 Plenary: Report on group activity 
 * 17:30 Closing remarks
 
-## What does Interactive Paper Presentation Mean?
+## Interactive Paper Presentations?
 
 While all the authors of accepted papers will have the chance to record a 20 min presentation of their work that will be published on the workshop website ahead of time, live presentations will be designed to promote interaction. To give space to fresh ideas, participants will be invited to trial an innovative format for paper presentations: presenters will be given 5 minutes to describe their research questions and hypothesis, and a group discussion will start after that (10 minutes). The goal is to give time to the audience to fully appreciate the complexity of the issue targeted in the paper, and propose ideas that have not been biased from the authors' approach. At the end of the discussion, presenters will be given 5 more minutes to describe their method and results, followed by a new group discussion about the interpretation and implications of such results (10 min).
 
