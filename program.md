@@ -10,7 +10,7 @@ The official program will be published after the decisions of paper acceptance h
 
 ## Tentative Timeline
 
-The workshop is a full-day meeting and will be hold on 6<sup>th</sup> June 2022 in hybrid mode.
+The workshop is a full-day meeting and will be held on 6<sup>th</sup> June 2022 in hybrid mode.
 
 All times shown below are in EDT.
 
