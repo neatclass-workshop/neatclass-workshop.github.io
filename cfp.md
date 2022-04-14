@@ -41,5 +41,6 @@ All deadlines are 11:59pm AOE (anywhere on earth).
 
 ## Registration
 
-Registration is now open: <a href="https://www.icwsm.org/2022/index.html/#registration">https://www.icwsm.org/2022/index.html/#registration</a>
+Registration is now open at <a href="https://www.icwsm.org/2022/index.html/#registration">https://www.icwsm.org/2022/index.html/#registration</a>.
+
 Note that it is possible to register for the workshop only at a much lower rate than the full-conference fees.
