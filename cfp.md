@@ -39,4 +39,7 @@ We invite research papers (8 pages), position and short papers (4 pages), and de
 
 All deadlines are 11:59pm AOE (anywhere on earth).
 
-It will be possible to register for the workshop only.
+## Registration
+
+Registration is now open: <a href="https://www.icwsm.org/2022/index.html/#registration">https://www.icwsm.org/2022/index.html/#registration</a>
+Note that it is possible to register for the workshop only at a much lower rate than the full-conference fees.
