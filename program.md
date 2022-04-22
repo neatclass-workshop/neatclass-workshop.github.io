@@ -48,7 +48,7 @@ This last session is meant to bring researchers together and discuss their exper
 <div class="row" valign="center" style="display:flex">
 	<div class="column" style="padding:5px;flex:33%" valign="center">
 	    <a href="https://isabelleaugenstein.github.io/" > 
-	    	<img src="http://isabelleaugenstein.github.io/images/isabelle.png" alt="Isabelle Augenstein" style="width:90%">
+	    	<img src="http://isabelleaugenstein.github.io/images/isabelle.png" alt="Isabelle Augenstein" style="width:100%">
 	    </a>
 	</div>
 	<div class="column" style="padding:5px;flex:66%" valign="center">
