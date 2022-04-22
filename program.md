@@ -45,7 +45,7 @@ This last session is meant to bring researchers together and discuss their exper
 
 ## Keynote 1: Isabelle Augenstein
 
-<div class="row" style="display:flex">
+<div class="row" valign="center" style="display:flex">
 	<div class="column" style="padding:5px;flex:33%" valign="center">
 	    <a href="https://isabelleaugenstein.github.io/" > 
 	    	<img src="http://isabelleaugenstein.github.io/images/isabelle.png" alt="Isabelle Augenstein" style="width:90%">
