@@ -48,10 +48,10 @@ This last session is meant to bring researchers together and discuss their exper
 <div class="row" style="display:flex">
 	<div class="column" style="padding:5px;flex:33%">
 	    <a href="https://isabelleaugenstein.github.io/" > 
-	    	<img src="images/isabelle.png" alt="Isabelle Augenstein" style="width:90%">
+	    	<img src="http://isabelleaugenstein.github.io/images/isabelle.png" alt="Isabelle Augenstein" style="width:90%">
 	    </a>
 	</div>
-	<div class="column" style="padding:5px;flex:33%">
+	<div class="column" style="padding:5px;flex:66%">
 	  	<p align="left"> Isabelle Augenstein is an Associate Professor at the University of Copenhagen, Department of Computer Science, where she heads the Copenhagen Natural Language Understanding research group as well as the Natural Language Processing section. Her main research interests are fact checking, low-resource learning, and explainability. Prior to starting a faculty position, she was a postdoctoral researcher at University College London, and before that a PhD student at the University of Sheffield. She currently holds a DFF Sapere Aude Research Leader fellowship on ‘Learning to Explain Attitudes on Social Media’, and is a member of the Young Royal Danish Academy of Sciences and Letters. </p>
 	</div>
 </div>
