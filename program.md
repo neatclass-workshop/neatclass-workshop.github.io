@@ -15,7 +15,7 @@ The workshop is a full-day meeting and will be held on 6<sup>th</sup> June 2022 
 All times shown below are in EDT.
 
 * 9.00 Welcome and introductions with ice-breaking questions 
-* 9.30 Keynote 1 
+* 9.30 Keynote 1: Isabelle Augenstein
 * 10.00 Interactive paper presentation 1 
 * 10.20 Interactive paper presentation 2 
 * 10.40 Interactive paper presentation 3 
@@ -24,7 +24,7 @@ All times shown below are in EDT.
 * 12.50 Interactive paper presentation 5 
 * 13.10 Interactive paper presentation 6 
 * 13.30 Catered lunch 
-* 14:30 Keynote 2 
+* 14:30 Keynote 2: Zeerak Talat
 * 15:00 Challenge: Come up with hard examples that trick models 
 * 15:30 Group activity: Where next? Discuss experience with evaluation of models and of human evaluation
 * 16:30 Coffee break 
@@ -42,3 +42,11 @@ In the afternoon we will kick off with a small challenge: participants will be d
 ## Group Activity
 
 This last session is meant to bring researchers together and discuss their experience with the evaluation of both models and human annotations. The goal is to collect ideas for new evaluation approaches and future work in the field and to discuss how we should organise competitions when there are multiple evaluation metrics and benchmarking datasets are dynamic. Depending on the number of participants, we will break up into small groups that reconvene after a coffee break to report resulting ideas.
+
+## Keynote 1: Isabelle Augenstein
+
+<a href="https://isabelleaugenstein.github.io/">Isabelle Augenstein</a> is an Associate Professor at the University of Copenhagen, Department of Computer Science, where she heads the Copenhagen Natural Language Understanding research group as well as the Natural Language Processing section. Her main research interests are fact checking, low-resource learning, and explainability. Prior to starting a faculty position, she was a postdoctoral researcher at University College London, and before that a PhD student at the University of Sheffield. She currently holds a DFF Sapere Aude Research Leader fellowship on ‘Learning to Explain Attitudes on Social Media’, and is a member of the Young Royal Danish Academy of Sciences and Letters.
+
+## Keynote 2: Zeerak Talat
+
+Zeerak Talat is a post doctoral fellow at the Digital Democracies Institute at Simon Fraser University. Talat received a Ph.D. from the University of Sheffield. In the Ph.D., Talat worked on automated content moderation and how the practice of automating content moderation using machine learning revealed underlying the political economy of machine learning, displaying issues of access, equality, and ethical practices. Talat also founded and runs the Workshop on Online Abuse and Harms, which focuses on the technical and social developments of automated content moderation infrastructure. Talat is currently working on critical machine learning and the philosophy of machine learning, aiming to identify the specific underlying causes for why and how machine learning is a currently a marginalizing technology.
