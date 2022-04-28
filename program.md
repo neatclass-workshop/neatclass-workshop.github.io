@@ -4,6 +4,13 @@ title: Program
 permalink: /program/
 ---
 
+# Registration
+
+Registration is now open at <a href="https://www.icwsm.org/2022/index.html/#registration">https://www.icwsm.org/2022/index.html/#registration</a>.
+
+Note that it is possible to register for the workshop only at a much lower rate than the full-conference fees.
+
+
 # Program
 
 The official program will be published after the decisions of paper acceptance have been finalised (29th April 2022).
