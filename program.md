@@ -61,4 +61,11 @@ This last session is meant to bring researchers together and discuss their exper
 
 ## Keynote 2: Zeerak Talat
 
-Zeerak Talat is a post doctoral fellow at the Digital Democracies Institute at Simon Fraser University. Talat received a Ph.D. from the University of Sheffield. In the Ph.D., Talat worked on automated content moderation and how the practice of automating content moderation using machine learning revealed underlying the political economy of machine learning, displaying issues of access, equality, and ethical practices. Talat also founded and runs the Workshop on Online Abuse and Harms, which focuses on the technical and social developments of automated content moderation infrastructure. Talat is currently working on critical machine learning and the philosophy of machine learning, aiming to identify the specific underlying causes for why and how machine learning is a currently a marginalizing technology.
+<div class="row" valign="center" style="display:flex">
+	<div class="column" style="padding:5px;flex:33%" valign="center">
+	    <img src="/images/ZeerakTalat.jpg" alt="Zeerak Talat" style="width:95%">
+	</div>
+	<div class="column" style="padding:5px;flex:66%" valign="center">
+	  	<p align="left"> Zeerak Talat is a post-doctoral fellow at the Digital Democracies Institute at Simon Fraser University. Talat's research focuses on the foundational limitations and the ethics of machine learning and NLP technologies as viewed through content moderation and social predication tasks. Talat received a Ph.D. from the University of Sheffield. During this time, Talat worked on automated content moderation and how the practice of automating content moderation using machine learning revealed the underlying political economy of machine learning, displaying issues of access, equality, and ethical practices. Talat also founded and runs the Workshop on Online Abuse and Harms (WOAH), which focuses on the technical and social developments of automated content moderation infrastructure. Talat’s current work aims to identify the specific underlying causes for why and how machine learning comes to be enacted as a marginalizing technology. </p>
+	</div>
+</div>
