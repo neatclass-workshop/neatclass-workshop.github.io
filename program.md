@@ -21,18 +21,18 @@ The workshop is a full-day meeting and will be held on 6<sup>th</sup> June 2022 
 
 All times shown below are in EDT.
 
-* 9:00 Welcome and introductions with ice-breaking questions 
-* 9:30 Keynote 1: Isabelle Augenstein
-* 10:00 Interactive paper presentations
-* 11:00 Coffee and networking break 
-* 11:30 Interactive paper presentations
-* 13:30 Catered lunch 
-* 14:30 Keynote 2: Zeerak Talat
-* 15:00 Challenge: Come up with hard examples that trick models 
-* 15:30 Group activity: Where next? Discuss experience with evaluation of models and of human evaluation
-* 16:30 Coffee break 
-* 17:00 Plenary: Report on group activity 
-* 17:30 Closing remarks
+* Welcome and introductions with ice-breaking questions 
+* Keynote 1: Isabelle Augenstein
+* Interactive paper presentations
+* Coffee and networking break 
+* Interactive paper presentations
+* Catered lunch 
+* Keynote 2: Zeerak Talat
+* Challenge: Come up with hard examples that trick models 
+* Group activity: Where next? Discuss experience with evaluation of models and of human evaluation
+* Coffee break 
+* Plenary: Report on group activity 
+* Closing remarks
 
 ## Interactive Paper Presentations
 
