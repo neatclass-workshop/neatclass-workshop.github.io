@@ -13,11 +13,9 @@ Note that it is possible to register for the workshop only at a much lower rate 
 
 # Program
 
-The official program will be published after the decisions of paper acceptance have been finalised (29th April 2022).
-
 ## Tentative Timeline
 
-The workshop is a full-day meeting and will be held on 6<sup>th</sup> June 2022 in hybrid mode.
+The workshop is a full-day meeting and will be held on 6<sup>th</sup> June 2022 in hybrid mode. This schedule is tentative and will be finalised in the coming days.
 
 All times shown below are in EDT.
 
@@ -26,13 +24,23 @@ All times shown below are in EDT.
 * Interactive paper presentations
 * Coffee and networking break 
 * Interactive paper presentations
-* Catered lunch 
+* 13:00-14:00 Lunch 
 * Keynote 2: Zeerak Talat
 * Challenge: Come up with hard examples that trick models 
 * Group activity: Where next? Discuss experience with evaluation of models and of human evaluation
 * Coffee break 
 * Plenary: Report on group activity 
 * Closing remarks
+
+## Accepted Papers
+
+Janina S. Pohl, Dennis Assenmacher, Moritz V. Seiler, Heike Trautmann, & Christian Grimme. Artificial Social Media Campaign Creation for Benchmarking and Challenging Detection Approaches
+
+Chiyu Zhang, Muhammad Abdul-Mageed, & El Moatez Billah Nagoudi. Decay No More: A Persistent Twitter Dataset for Learning Social Meaning
+
+Viktor Schlegel, Erick Mendez-Guzman, & Riza Batista-Navarro. Towards Human-Centred Explainability Benchmarks For Text Classification
+
+Paula Reyero Lobo, Martino Mensio, Angel Pavon Perez, Vaclav Bayer, Joseph Kwarteng, Miriam Fernandez, Enrico Daga, & Harith Alani. Estimating Ground Truth in a Low-labelled Data Regime: A Study of Racism Detection in Spanish
 
 ## Interactive Paper Presentations
 
