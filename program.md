@@ -83,7 +83,7 @@ This last session is meant to bring researchers together and discuss their exper
 <div class="row" valign="center" style="display:flex">
 	<div class="column" style="padding:5px;flex:33%" valign="center">
 	    <a href="http://www.munmund.net/" > 
-	    	<img src="http://www.munmund.net/imgs/munmun-pic2.jpg" alt="Munmun De Choudhury" style="width:95%">
+	    	<img src="/images/munmun.jpg" alt="Munmun De Choudhury" style="width:95%">
 	    </a>
 	</div>
 	<div class="column" style="padding:5px;flex:66%" valign="center">
