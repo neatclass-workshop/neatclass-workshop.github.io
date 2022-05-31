@@ -77,3 +77,16 @@ This last session is meant to bring researchers together and discuss their exper
 	  	<p align="left"> Zeerak Talat is a post-doctoral fellow at the Digital Democracies Institute at Simon Fraser University. Talat's research focuses on the foundational limitations and the ethics of machine learning and NLP technologies as viewed through content moderation and social predication tasks. Talat received a Ph.D. from the University of Sheffield. During this time, Talat worked on automated content moderation and how the practice of automating content moderation using machine learning revealed the underlying political economy of machine learning, displaying issues of access, equality, and ethical practices. Talat also founded and runs the Workshop on Online Abuse and Harms (WOAH), which focuses on the technical and social developments of automated content moderation infrastructure. Talat’s current work aims to identify the specific underlying causes for why and how machine learning comes to be enacted as a marginalizing technology. </p>
 	</div>
 </div>
+
+## Keynote 3: Munmun De Choudhury
+
+<div class="row" valign="center" style="display:flex">
+	<div class="column" style="padding:5px;flex:33%" valign="center">
+	    <a href="http://www.munmund.net/" > 
+	    	<img src="http://www.munmund.net/imgs/munmun-pic2.jpg" alt="Munmun De Choudhury" style="width:95%">
+	    </a>
+	</div>
+	<div class="column" style="padding:5px;flex:66%" valign="center">
+	  	<p align="left"> Munmun De Choudhury is an Associate Professor of Interactive Computing at Georgia Tech. Dr. De Choudhury is best known for laying the foundation of a new line of research that develops computational techniques towards understanding and improving mental health outcomes, through ethical analysis of social media data. To do this work, she adopts a highly interdisciplinary approach, combining social computing, machine learning, and natural language analysis with insights and theories from the social, behavioral, and health sciences. Dr. De Choudhury has been recognized with the 2021 ACM-W Rising Star Award, 2019 Complex Systems Society – Junior Scientific Award, numerous best paper and honorable mention awards from the ACM and AAAI, and features and coverage in popular press like the New York Times, the NPR, and the BBC. Dr. De Choudhury currently serves on the Board of Directors of the International Society for Computational Social Science and on the Steering Committee of the International Conference on Web and Social Media, the leading conference on interdisciplinary studies of social media. Earlier, Dr. De Choudhury was a faculty associate with the Berkman Klein Center for Internet and Society at Harvard, a postdoc at Microsoft Research, and obtained her PhD in Computer Science from Arizona State University. </p>
+	</div>
+</div>
