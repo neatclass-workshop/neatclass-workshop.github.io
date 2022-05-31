@@ -19,18 +19,22 @@ The workshop is a full-day meeting and will be held on 6<sup>th</sup> June 2022 
 
 All times shown below are in EDT.
 
-* Welcome and introductions with ice-breaking questions 
-* Keynote 1: Isabelle Augenstein
-* Interactive paper presentations
-* Coffee and networking break 
-* Interactive paper presentations
+* 08:30 Welcome and introductions, with ice-breaking questions 
+* 08:45 Keynote 1: Isabelle Augenstein
+	* Title: _"Evaluating Automatically Generated Fact Checking Explanations"_
+* 09:30 Interactive paper presentations
+* 10:30 Coffee break
+* 11:00 Keynote 2: Munmun De Choudhury
+	* Title: _"Mental Health Prediction With Social Media: Towards Ethical, Domain-Sensitive, and Human-Centered Evaluation"_
+* 11:45 Interactive paper presentations
 * 13:00-14:00 Lunch 
-* Keynote 2: Zeerak Talat
-* Challenge: Come up with hard examples that trick models 
-* Group activity: Where next? Discuss experience with evaluation of models and of human evaluation
-* Coffee break 
-* Plenary: Report on group activity 
-* Closing remarks
+* 14:00 Keynote 3: Zeerak Talat
+	* Title: _"That’s just your opinion, man: On Annotating and Evaluating Subjective Data, Objectively"_
+* 14:30 Challenge: Come up with hard examples that trick models 
+* 15:00 Group activity: Where next? Discuss experience with evaluation of models and of human evaluation
+* 16:00 Coffee break 
+* 16:30 Plenary: Report on group activity and closing remarks
+* 18:30 End
 
 ## Accepted Papers
 
@@ -67,18 +71,7 @@ This last session is meant to bring researchers together and discuss their exper
 	</div>
 </div>
 
-## Keynote 2: Zeerak Talat
-
-<div class="row" valign="center" style="display:flex">
-	<div class="column" style="padding:5px;flex:33%" valign="center">
-	    <img src="/images/ZeerakTalat.jpg" alt="Zeerak Talat" style="width:95%">
-	</div>
-	<div class="column" style="padding:5px;flex:66%" valign="center">
-	  	<p align="left"> Zeerak Talat is a post-doctoral fellow at the Digital Democracies Institute at Simon Fraser University. Talat's research focuses on the foundational limitations and the ethics of machine learning and NLP technologies as viewed through content moderation and social predication tasks. Talat received a Ph.D. from the University of Sheffield. During this time, Talat worked on automated content moderation and how the practice of automating content moderation using machine learning revealed the underlying political economy of machine learning, displaying issues of access, equality, and ethical practices. Talat also founded and runs the Workshop on Online Abuse and Harms (WOAH), which focuses on the technical and social developments of automated content moderation infrastructure. Talat’s current work aims to identify the specific underlying causes for why and how machine learning comes to be enacted as a marginalizing technology. </p>
-	</div>
-</div>
-
-## Keynote 3: Munmun De Choudhury
+## Keynote 2: Munmun De Choudhury
 
 <div class="row" valign="center" style="display:flex">
 	<div class="column" style="padding:5px;flex:33%" valign="center">
@@ -88,5 +81,16 @@ This last session is meant to bring researchers together and discuss their exper
 	</div>
 	<div class="column" style="padding:5px;flex:66%" valign="center">
 	  	<p align="left"> Munmun De Choudhury is an Associate Professor of Interactive Computing at Georgia Tech. Dr. De Choudhury is best known for laying the foundation of a new line of research that develops computational techniques towards understanding and improving mental health outcomes, through ethical analysis of social media data. To do this work, she adopts a highly interdisciplinary approach, combining social computing, machine learning, and natural language analysis with insights and theories from the social, behavioral, and health sciences. Dr. De Choudhury has been recognized with the 2021 ACM-W Rising Star Award, 2019 Complex Systems Society – Junior Scientific Award, numerous best paper and honorable mention awards from the ACM and AAAI, and features and coverage in popular press like the New York Times, the NPR, and the BBC. Dr. De Choudhury currently serves on the Board of Directors of the International Society for Computational Social Science and on the Steering Committee of the International Conference on Web and Social Media, the leading conference on interdisciplinary studies of social media. Earlier, Dr. De Choudhury was a faculty associate with the Berkman Klein Center for Internet and Society at Harvard, a postdoc at Microsoft Research, and obtained her PhD in Computer Science from Arizona State University. </p>
+	</div>
+</div>
+
+## Keynote 3: Zeerak Talat
+
+<div class="row" valign="center" style="display:flex">
+	<div class="column" style="padding:5px;flex:33%" valign="center">
+	    <img src="/images/ZeerakTalat.jpg" alt="Zeerak Talat" style="width:95%">
+	</div>
+	<div class="column" style="padding:5px;flex:66%" valign="center">
+	  	<p align="left"> Zeerak Talat is a post-doctoral fellow at the Digital Democracies Institute at Simon Fraser University. Talat's research focuses on the foundational limitations and the ethics of machine learning and NLP technologies as viewed through content moderation and social predication tasks. Talat received a Ph.D. from the University of Sheffield. During this time, Talat worked on automated content moderation and how the practice of automating content moderation using machine learning revealed the underlying political economy of machine learning, displaying issues of access, equality, and ethical practices. Talat also founded and runs the Workshop on Online Abuse and Harms (WOAH), which focuses on the technical and social developments of automated content moderation infrastructure. Talat’s current work aims to identify the specific underlying causes for why and how machine learning comes to be enacted as a marginalizing technology. </p>
 	</div>
 </div>
