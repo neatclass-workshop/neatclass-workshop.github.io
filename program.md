@@ -23,18 +23,18 @@ All times shown below are in EDT.
 * 08:45 Keynote 1: Isabelle Augenstein
 	* Title: _"Evaluating Automatically Generated Fact Checking Explanations"_
 * 09:30 Interactive paper presentations
-	* Paper 1: _"Artificial Social Media Campaign Creation for Benchmarking and Challenging Detection Approaches"_
-	* Paper 2: _"Decay No More: A Persistent Twitter Dataset for Learning Social Meaning"_
+	* Paper 1: <a href="http://workshop-proceedings.icwsm.org/abstract?id=2022_91">_"Artificial Social Media Campaign Creation for Benchmarking and Challenging Detection Approaches"_</a>
+	* Paper 2: <a href="http://workshop-proceedings.icwsm.org/abstract?id=2022_92">_"Decay No More: A Persistent Twitter Dataset for Learning Social Meaning"_</a>
 * 10:30 Coffee break
 * 11:00 Keynote 2: Munmun De Choudhury
 	* Title: _"Mental Health Prediction With Social Media: Towards Ethical, Domain-Sensitive, and Human-Centered Evaluation"_
 * 11:45 Interactive paper presentations
-	* Paper 3: _"Towards Human-Centred Explainability Benchmarks For Text Classification"_
-	* Paper 4: _"Estimating Ground Truth in a Low-labelled Data Regime: A Study of Racism Detection in Spanish"_
+	* Paper 3: <a href="http://workshop-proceedings.icwsm.org/abstract?id=2022_93">_"Towards Human-Centred Explainability Benchmarks For Text Classification"_</a>
+	* Paper 4: <a href="http://workshop-proceedings.icwsm.org/abstract?id=2022_94">_"Estimating Ground Truth in a Low-labelled Data Regime: A Study of Racism Detection in Spanish"_</a>
 * 13:00-14:00 Lunch 
 * 14:00 Keynote 3: Zeerak Talat
 	* Title: _"That’s just your opinion, man: On Annotating and Evaluating Subjective Data, Objectively"_
-* 14:30 Challenge: Come up with hard examples that trick models 
+* 14:30 Challenge: <a href="/challenge">Come up with hard examples that trick models</a> 
 * 15:00 Group activity: Where next? Discuss experience with evaluation of models and of human evaluation
 * 16:00 Coffee break 
 * 16:30 Plenary: Report on group activity and closing remarks
