@@ -58,7 +58,7 @@ While all the authors of accepted papers will have the chance to record a 20 min
 
 In the afternoon we will kick off with a small challenge: participants will be divided into groups and asked to come up with hard examples that trick existing text classifiers. To this end, we will provide an interactive model for the detection of abusive language and we will invite participants (in advance) to provide their own models and tasks for collaborative adversarial testing. The challenge will work as a warm-up session for the following group activity.
 
-Resources for the challenge are available <a href="/challenge">here</a>
+Resources for the challenge are available <a href="/challenge">here</a>.
 
 ## Group Activity
 
