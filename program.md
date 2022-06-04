@@ -24,7 +24,7 @@ All times shown below are in EDT.
 	* Title: _"Evaluating Automatically Generated Fact Checking Explanations"_
 * 09:30 Interactive paper presentations
 	* Paper 1: <a href="http://workshop-proceedings.icwsm.org/abstract?id=2022_91">_"Artificial Social Media Campaign Creation for Benchmarking and Challenging Detection Approaches"_</a>
-	* Paper 2: <a href="http://workshop-proceedings.icwsm.org/abstract?id=2022_92">_"Decay No More: A Persistent Twitter Dataset for Learning Social Meaning"_</a>
+	* Paper 2: <a href="/paper2">_"Decay No More: A Persistent Twitter Dataset for Learning Social Meaning"_</a>
 * 10:30 Coffee break
 * 11:00 Keynote 2: Munmun De Choudhury
 	* Title: _"Mental Health Prediction With Social Media: Towards Ethical, Domain-Sensitive, and Human-Centered Evaluation"_
@@ -47,7 +47,6 @@ Janina S. Pohl, Dennis Assenmacher, Moritz V. Seiler, Heike Trautmann, & Christi
 
 Chiyu Zhang, Muhammad Abdul-Mageed, & El Moatez Billah Nagoudi. Decay No More: A Persistent Twitter Dataset for Learning Social Meaning
 * <a href="http://workshop-proceedings.icwsm.org/abstract?id=2022_92">PDF</a>
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/717018579?h=b488dce9ca&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Zhang_Decay_No_More.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Viktor Schlegel, Erick Mendez-Guzman, & Riza Batista-Navarro. Towards Human-Centred Explainability Benchmarks For Text Classification
 * <a href="http://workshop-proceedings.icwsm.org/abstract?id=2022_93">PDF</a>
