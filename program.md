@@ -47,6 +47,7 @@ Janina S. Pohl, Dennis Assenmacher, Moritz V. Seiler, Heike Trautmann, & Christi
 
 Chiyu Zhang, Muhammad Abdul-Mageed, & El Moatez Billah Nagoudi. Decay No More: A Persistent Twitter Dataset for Learning Social Meaning
 * <a href="http://workshop-proceedings.icwsm.org/abstract?id=2022_92">PDF</a>
+* <a href="/paper2">Recording</a>
 
 Viktor Schlegel, Erick Mendez-Guzman, & Riza Batista-Navarro. Towards Human-Centred Explainability Benchmarks For Text Classification
 * <a href="http://workshop-proceedings.icwsm.org/abstract?id=2022_93">PDF</a>
