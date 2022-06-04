@@ -43,12 +43,17 @@ All times shown below are in EDT.
 ## Accepted Papers
 
 Janina S. Pohl, Dennis Assenmacher, Moritz V. Seiler, Heike Trautmann, & Christian Grimme. Artificial Social Media Campaign Creation for Benchmarking and Challenging Detection Approaches
+* <a href="http://workshop-proceedings.icwsm.org/abstract?id=2022_91">PDF</a>
 
 Chiyu Zhang, Muhammad Abdul-Mageed, & El Moatez Billah Nagoudi. Decay No More: A Persistent Twitter Dataset for Learning Social Meaning
+* <a href="http://workshop-proceedings.icwsm.org/abstract?id=2022_92">PDF</a>
+* <a href="https://drive.google.com/file/d/1_c9PCN9rHguswwIeAX0ZBZLDDFNBF4t1/view?usp=sharing">Recording</a>
 
 Viktor Schlegel, Erick Mendez-Guzman, & Riza Batista-Navarro. Towards Human-Centred Explainability Benchmarks For Text Classification
+* <a href="http://workshop-proceedings.icwsm.org/abstract?id=2022_93">PDF</a>
 
 Paula Reyero Lobo, Martino Mensio, Angel Pavon Perez, Vaclav Bayer, Joseph Kwarteng, Miriam Fernandez, Enrico Daga, & Harith Alani. Estimating Ground Truth in a Low-labelled Data Regime: A Study of Racism Detection in Spanish
+* <a href="http://workshop-proceedings.icwsm.org/abstract?id=2022_94">PDF</a>
 
 ## Interactive Paper Presentations
 
