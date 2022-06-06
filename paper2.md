@@ -8,6 +8,8 @@ permalink: /paper2/
 
 Authors: Chiyu Zhang, Muhammad Abdul-Mageed, and El Moatez Billah Nagoudi.
 
+This paper received the Best Paper Award!
+
 <br>
 Full text available <a href="http://workshop-proceedings.icwsm.org/abstract?id=2022_92">here</a>.
 
