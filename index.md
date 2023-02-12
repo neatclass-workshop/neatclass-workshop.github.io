@@ -15,7 +15,7 @@ If unreliable systems achieve astonishing scores with traditional metrics, how d
 
 <div class="row" style="display:flex">
   <div class="column" style="padding:5px;flex:33%">
-    <a href="https://sweb.inf.ed.ac.uk/bross3/" > 
+    <a href="https://sweb.inf.ed.ac.uk/bross3/" >
     	<img src="images/bjorn.png" alt="Björn Ross" style="width:90%">
     </a>
     <p align="center"> <a href="https://sweb.inf.ed.ac.uk/bross3/">Björn Ross</a> </p>
@@ -37,6 +37,14 @@ If unreliable systems achieve astonishing scores with traditional metrics, how d
     <p align="center"> <a href="https://ago3.github.io">Agostina Calabrese</a></p>
     <p align="center"> she/her </p>
     <p align="center"> The University of Edinburgh </p>
+  </div>
+  <div class="column" style="padding:5px;flex:33%">
+    <a href="http://sheikhsarwar.com/" >
+      <img src="images/sheikh.jpg" alt="Sheikh Muhammad Sarwar" style="width:90%">
+    </a>
+    <p align="center"> <a href="http://sheikhsarwar.com/">Sheikh Muhammad Sarwar</a></p>
+    <p align="center"> he/him </p>
+    <p align="center"> Amazon </p>
   </div>
 </div>
 
