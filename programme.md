@@ -1,7 +1,7 @@
 ---
 # layout: page
-title: Program
-permalink: /program/
+title: Programme
+permalink: /programme/
 ---
 
 # Registration
@@ -10,7 +10,7 @@ Registration will be managed by ICWSM at <a href="https://www.icwsm.org/2023/ind
 
 Note that it is typically possible at ICWSM conferences to register for the workshop only at a much lower rate than the full-conference fees.
 
-# Program
+# Programme
 
 The workshop will be held as a half-day meeting and will be held on 5<sup>th</sup> June 2022 in hybrid mode.
 
