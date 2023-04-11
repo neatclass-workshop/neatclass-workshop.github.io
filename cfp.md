@@ -33,7 +33,7 @@ While we would encourage you to attend in person, we are also planning to live s
 
 ## Submission Information
 
-* Submission link: TBD
+* Submission link: https://easychair.org/conferences/?conf=neatclass2023
 * Paper submission deadline: 17 April 2023
 * Paper acceptance notification: 30 April 2023
 * Final camera-ready paper due: 6 May 2023
