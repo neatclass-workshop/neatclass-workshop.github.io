@@ -23,7 +23,7 @@ While we highly encourage in-person attendance, we are planning to live stream t
 <div class="row" valign="center" style="display:flex">
 	<div class="column" style="padding:5px;flex:33%" valign="center">
 	    <a href="https://gvrkiran.github.io/" >
-	    	<img src="images/kiran_img.jpeg" alt="Kiran Garimella" style="width:95%">
+	    	<img src="../images/kiran_img.jpeg" alt="Kiran Garimella" style="width:95%">
 	    </a>
 	</div>
 	<div class="column" style="padding:5px;flex:66%" valign="center">
