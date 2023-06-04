@@ -17,7 +17,7 @@ The workshop will be held as a half-day meeting on 5<sup>th</sup> June 2022 from
 We are looking forward to an exciting mix of activities including invited speakers and paper presentations. All times shown below are UTC+3.
 
 * 14:00: Introductions
-* 14:05: Talk by Kiran Garimella
+* 14:05: Keynote: Kiran Garimella
 * 14:30: Paper #1:
 	* "Benchmark Evaluation for Tasks with Highly Subjective Crowdsourced Annotations: Case study in Argument Mining of Political Debates"
 * 14:50: Paper #2:
