@@ -24,7 +24,7 @@ We are looking forward to an exciting mix of activities including invited speake
 * 14:50: Paper #2:
 	* "CoMID: COVID-19 Misinformation Alignment Detection Using Content and User Data"
 * 15:10: Interactive group activity:
-	* <a href="https://colab.research.google.com/drive/1FIW-GDintPySaXhf9CRufWAhUsUUz__2?usp=sharing#scrollTo=vC00M3uczRVl"> "Exploring Alignment of LLM and HumanValues"</a>
+	* <a href="https://colab.research.google.com/drive/1FIW-GDintPySaXhf9CRufWAhUsUUz__2?usp=sharing#scrollTo=vC00M3uczRVl"> "Exploring Alignment of LLM and Human Values"</a>
 * 16:00: Coffee break
 * 16:30: Paper #3:
 	* "Identifying Different Layers of Online Misogyny"
