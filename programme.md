@@ -18,6 +18,7 @@ We are looking forward to an exciting mix of activities including invited speake
 
 * 14:00: Introductions
 * 14:05: Keynote: Kiran Garimella
+	* Title: "Fact-checking on Encrypted Platforms"
 * 14:30: Paper #1:
 	* "Benchmark Evaluation for Tasks with Highly Subjective Crowdsourced Annotations: Case study in Argument Mining of Political Debates"
 * 14:50: Paper #2:
